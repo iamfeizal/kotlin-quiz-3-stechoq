@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">quiz_3</string>
+    <string name="app_pendaftaran">Pendaftaran</string>
+    <string name="form_nama">Full Name</string>
+    <string name="form_nim">NIM</string>
+    <string name="form_password">Password</string>
+    <string name="form_confirm_password">Confirm Password</string>
+    <string name="form_email">Email</string>
+    <string name="form_username">Username</string>
+    <string name="button_daftar">Daftar</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="hint_signup">Don\'t have an account? Sign Up</string>
+    <string name="hint_login">Have an account? Log In</string>
 </resources>
